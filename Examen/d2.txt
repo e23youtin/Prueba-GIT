@@ -1,0 +1,5 @@
+"FC Barcelona", "Leo Messi"
+"Real Madrid", "Cristiano Ronaldo"
+"Real Madrid", "Sergio Ramos"
+"Real Madrid", "Daniel Carvajal"
+"FC Barcelona", "Xavi Hernández"
